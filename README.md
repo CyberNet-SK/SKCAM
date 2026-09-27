@@ -29,8 +29,7 @@ apt install openssh -y
 apt install git -y
 termux-setup-storage
 apt install wget -y
-git clone https://github.com/Ehmunna/EH_CAM.git
-cd EH_CAM
+git clone https://github.com/CyberNet-SK/SKCAM.git
 bash ehcam.sh
 ```
 ## Open new Session
