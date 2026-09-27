@@ -1,4 +1,4 @@
-# SK Cam
+# SKCAM
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 ![cheese](Logo/Camera.png)
 ## Developer By Sheikh Sabbir 
@@ -30,7 +30,7 @@ apt install git -y
 termux-setup-storage
 apt install wget -y
 git clone https://github.com/CyberNet-SK/SKCAM.git
-bash ehcam.sh
+bash skcam.sh
 ```
 ## Open new Session
 ```
