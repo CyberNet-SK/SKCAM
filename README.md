@@ -30,6 +30,7 @@ apt install git -y
 termux-setup-storage
 apt install wget -y
 git clone https://github.com/CyberNet-SK/SKCAM.git
+cd SKCAM
 bash skcam.sh
 ```
 ## Open new Session
